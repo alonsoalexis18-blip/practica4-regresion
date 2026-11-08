@@ -1,0 +1,1 @@
+# App de Regresión Lineal y Correlación - Práctica 4.2
